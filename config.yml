@@ -100,7 +100,7 @@ params:
       url: "https://www.youtube.com/@jmarcelomb"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/jmarcelomb/content/tree/main"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
