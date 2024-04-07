@@ -2,7 +2,7 @@
 	path = themes/hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 	branch = main
-[submodule "content"]
+[submodule "blog-content"]
 	path = content
-	url = https://github.com/jmarcelomb/content.git
+	url = https://github.com/jmarcelomb/blog-content.git
 	branch = main
