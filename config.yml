@@ -84,10 +84,9 @@ params:
     Title: >
      👋 Welcome to my blog!
     Content: > 
-      Currently I'm a Senior Software Engineer at Synopsys Inc.
-      I'm deeply passionate about embedded systems and programming, which fuels my drive for continuous learning.
-      This blog is a way to share my journey with you!
-      Let's shape the future through code! 💻 🚀
+      I'm currently a Senior Software Engineer at Synopsys Inc., with a deep passion for embedded systems and programming.
+      This passion fuels my drive for continuous learning and innovation.
+      Through this blog, I aim to share my journey, insights, and experiences with you. Together, let's shape the future through code! 💻🚀
 
   socialIcons:
     - name: GitHub
