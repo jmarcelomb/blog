@@ -1,6 +1,6 @@
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+	url = git@github.com:adityatelange/hugo-PaperMod.git
 	branch = main
 [submodule "blog-content"]
 	path = content
