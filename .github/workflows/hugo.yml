@@ -45,6 +45,8 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Update submodules to latest commit
+        run: git submodule update --remote --merge
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
