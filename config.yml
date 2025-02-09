@@ -82,19 +82,26 @@ params:
     Title: >
       👋 Welcome to my blog!
     Content: >
-      I'm currently a Senior Software Engineer at Synopsys Inc., with a deep passion for embedded systems and programming.
-      This passion fuels my drive for continuous learning and innovation.
-      Through this blog, I aim to share my journey, insights, and experiences with you. Together, let's shape the future through code! 💻🚀
+      Hi, I’m **Marcelo Borges**, a **Senior Software Engineer** at **Synopsys Inc.**, passionate about software development and tinkering with 3D printing.
+      This blog is where I share **insights**, **experiences**, and **discoveries**—from low-level coding to high-level architecture.
 
-  social:
-    - name: GitHub
+
+      My goal? To **learn**, **teach**, and **inspire** through code and creativity.
+
+
+      Join me as we explore the exciting worlds of software and hardware together! 🚀
+
+  socialIcons:
+    - name: github
       title: Find me in GitHub
       url: "https://github.com/jmarcelomb"
-    - name: Wiki
-      url: "https://www.wiki.marceloborges.dev"
-    - name: RSS
+    - name: wiki
+      url: "https://wiki.marceloborges.dev/"
+    - name: rss
       title: RSS
       url: "https://marceloborges.dev/index.xml"
+    - name: email
+      url: mailto:me@marceloborges.dev
     - name: linkedin
       title: Find me in LinkedIn
       url: "https://www.linkedin.com/in/jmmb/"
